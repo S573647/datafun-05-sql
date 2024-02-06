@@ -1,0 +1,1 @@
+select department.department_name, employee.employee_id, employee.employee_name from department join employee on department.department_id= employee.department_id 
